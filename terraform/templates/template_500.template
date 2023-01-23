@@ -1,0 +1,4 @@
+{
+      "error":"$input.path('$.errorMessage')",
+      "errorMessage":"Error description"
+}
