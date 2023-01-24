@@ -5,11 +5,11 @@
 # }
 variable "access_key" {
     description = "access key"
-    default = "AKIA27GN4WVVOZBAPQWQ"
+    default = ""
 }
 variable "secret_key" {
     description = "secret key"
-    default = "NwgPRIBqzRJmBbVsEmshVgR8pH1H2cgbVz68N2n+"
+    default = ""
 }
 variable "region" {
     description = "region"
